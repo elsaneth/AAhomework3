@@ -23,3 +23,11 @@ def binary_search(arr, l, r, x):
     # if we reach here, then the element was not present
     result = "No such number in the array."
     return result
+
+arr = [1, 2, 3, 7, 15, 40]
+x = 15
+l = 0
+r = (len(arr) - 1)
+
+print(binary_search(arr, l, r, x))
+

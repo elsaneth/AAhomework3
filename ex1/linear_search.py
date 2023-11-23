@@ -7,7 +7,7 @@ def linear_search(arr, N, x):
     return result
 
 arr = [1, 2, 3, 7, 15, 4, 40]
-x = 15
+x = 4
 N = len(arr)
 
 print(linear_search(arr, N, x))
