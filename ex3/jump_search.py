@@ -19,9 +19,7 @@ def jump_search(arr, target):
     result = "No such nr in array"
     return result
 
-# Driver code to test function
 arr = [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610]
 target = 55
 
-# Find the indetarget of 'target' using Jump Search
 print(jump_search(arr, target))
