@@ -14,5 +14,5 @@ Binary Search võib olla kasulikum sõna otsimisel sõnaraamatust.
 
 Eesti keelest on teada 2,4 miljardit sõna [1]. Eesti keele "Õigekeelsussõnaraamatus" 2006 on 130 000 sõna [2], mida on kõvasti vähem kui teadaolevaid sõnu, aga endiselt palju. Linear Search korral peaks otsitava sõna jaoks läbi käima sõnastiku algusest üks-haaval ning kui otsitav sõna on sõnastiku lõpus, tehtaks mõttetut tööd võrreldes iga sõna üks-haaval. Binary Search abil saaks need 130 000 pidevalt jagada kaheks ning valida vastavalt suuna kummale poole liigutakse (parem/vasak) ning otsitav sõna leitaks tunduvalt kiiremini.
 
-[1] https://leht.postimees.ee/7460253/ak-eki-keelekool-kui-palju-on-eesti-keeles-sonu
-[2] https://www.eki.ee/books/ekk09/index.php?id=551&p=6&p1=5
+- [1] https://leht.postimees.ee/7460253/ak-eki-keelekool-kui-palju-on-eesti-keeles-sonu
+- [2] https://www.eki.ee/books/ekk09/index.php?id=551&p=6&p1=5
